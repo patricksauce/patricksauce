@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @patricksauce
+- 👀 I’m interested in Computer Info Syst. | Computer Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on small beginner projects 
+- 📫 How to reach me. Linkedin
